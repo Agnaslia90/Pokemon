@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokémon</string>
+    <string name="btnPokemon">Go to Pokémon List</string>
+</resources>
